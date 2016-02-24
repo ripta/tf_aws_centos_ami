@@ -1,0 +1,19 @@
+{
+  "variable": {
+    "amis": {
+      "description": "The AMI IDs to use.",
+      "default": {
+        "ap-northeast-1-7.1-hvm": "ami-b80b6db8",
+        "ap-northeast-2-7.1-hvm": "ami-dd9d53b3",
+        "ap-southeast-1-7.1-hvm": "ami-2a7b6b78",
+        "ap-southeast-2-7.1-hvm": "ami-d38dc6e9",
+        "eu-central-1-7.1-hvm": "ami-e68f82fb",
+        "eu-west-1-7.1-hvm": "ami-33734044",
+        "sa-east-1-7.1-hvm": "ami-fd0197e0",
+        "us-east-1-7.1-hvm": "ami-61bbf104",
+        "us-west-1-7.1-hvm": "ami-f77fbeb3",
+        "us-west-2-7.1-hvm": "ami-d440a6e7"
+      }
+    }
+  }
+}
