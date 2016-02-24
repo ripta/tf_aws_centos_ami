@@ -3,6 +3,7 @@
     "amis": {
       "description": "The AMI IDs to use.",
       "default": {
+        "_source-7.0-hvm": "https://aws.amazon.com/marketplace/ordering?productId=b7ee8a69-ee97-4a49-9e68-afaee216db2e",
         "ap-northeast-1-7.0-hvm": "ami-89634988",
         "ap-southeast-1-7.0-hvm": "ami-aea582fc",
         "ap-southeast-2-7.0-hvm": "ami-bd523087",
@@ -12,6 +13,7 @@
         "us-east-1-7.0-hvm": "ami-96a818fe",
         "us-west-1-7.0-hvm": "ami-6bcfc42e",
         "us-west-2-7.0-hvm": "ami-c7d092f7",
+        "_source-7.1-hvm": "https://aws.amazon.com/marketplace/ordering?productId=b7ee8a69-ee97-4a49-9e68-afaee216db2e",
         "ap-northeast-1-7.1-hvm": "ami-b80b6db8",
         "ap-northeast-2-7.1-hvm": "ami-dd9d53b3",
         "ap-southeast-1-7.1-hvm": "ami-2a7b6b78",
