@@ -14,6 +14,8 @@ All input variables have default values, but we recommend specifying all of them
 * `release`, e.g., `6.0` or `7.0`; and
 * `virttype`, e.g., `hvm` or `pv`.
 
+All images are assumed to be `x86-64`.
+
 ## Output Variable
 
 There is only one output, named `ami_id`, which can be used directly on the
